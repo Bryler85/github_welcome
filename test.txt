@@ -3,3 +3,4 @@ making an edit to this file
 hi
 some more changes
 add something 
+add another line
